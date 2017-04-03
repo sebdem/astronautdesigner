@@ -1,2 +1,2 @@
 # astronautdesigner
-A skin design tool for Star-Made
+A tool for creating a skin for Star-Made
