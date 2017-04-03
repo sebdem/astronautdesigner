@@ -1,0 +1,12 @@
+<source name="preset" emission="false">
+	<layers>
+		<source name="body" emission="false" >
+			<layers>
+				<source name="body/default" emission="false"  colorable="false" tint="15059094"/>
+				<source name="body/pants" emission="false"  colorable="false" tint="3767231"/>
+			</layers>
+		</source>
+		<source name="suit_default" emission="false"  colorable="true" tint="3767231"/>
+		<!--<source name="test2" emission="false" colorable="true" tint="6513507"/>-->
+	</layers>
+</source>

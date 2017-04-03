@@ -1,0 +1,6 @@
+<source name="elvish" emission="false" >
+	<layers>
+		<source name="body/elvish" emission="false"  colorable="false" tint="15059094"/>
+		<source name="body/pants" emission="false"  colorable="true"/>
+	</layers>
+</source>

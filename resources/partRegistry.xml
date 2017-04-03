@@ -1,0 +1,9 @@
+<sourceregistry>
+<sources>
+<layersource name="test" emission="false"></layersource>
+<layersource name="test" emission="false"></layersource>
+<layersource name="test2" emission="false"></layersource>
+<layersource name="test3" emission="false"></layersource>
+<layersource name="test3" emission="false" colorable="true"></layersource>
+</sources>
+</sourceregistry>

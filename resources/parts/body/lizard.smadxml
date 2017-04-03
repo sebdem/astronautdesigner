@@ -1,0 +1,6 @@
+<source name="lizard" emission="false" >
+	<layers>
+		<source name="body/lizard" emission="false"  colorable="false"/>
+		<source name="body/pants" emission="false"  colorable="true" tint="3767231"/>
+	</layers>
+</source>

@@ -1,0 +1,6 @@
+<source name="apeman" emission="false" >
+	<layers>
+		<source name="body/apeman" emission="false"  colorable="false" tint="12360805"/>
+		<source name="body/pants" emission="false"  colorable="true"/>
+	</layers>
+</source>

@@ -1,0 +1,9 @@
+<source name="defaultsuit3" emission="false" >
+	<layers>
+		<!--<source name="suit/dave_material0" emission="false"  colorable="true" tint="2631720"/>-->
+		<source name="suit/dave_material0" emission="false"  colorable="true" tint="6776679"/>
+		<!--<source name="suit/dave_material3_1" emission="false"  colorable="true" tint="10066329"/>-->
+		<source name="suit/dave_material3_1" emission="false"  colorable="true" tint="8421504"/>
+		<source name="suit/dave_overlay" emission="false"  colorable="false"/>
+	</layers>
+</source>

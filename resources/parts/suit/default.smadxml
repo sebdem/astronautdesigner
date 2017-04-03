@@ -1,0 +1,13 @@
+<source name="defaultsuit0" emission="false" >
+	<layers>
+		<source name="suit/dave_material1" emission="false"  colorable="true" tint="10066329"/>
+		<source name="suit/dave_material3_1" emission="false"  colorable="true" tint="10066329"/>
+		<source name="suit/dave_overlay" emission="false"  colorable="false"/>
+		<source name="suit/dave_joints" emission="false"  colorable="false" tint="10066329"/>
+		<!--
+		<source name="suit/dave_material0" emission="false"  colorable="true" tint="10066329"/>
+		<source name="suit/dave_overlay" emission="false"  colorable="false"/>
+		<source name="suit/dave_joints" emission="false"  colorable="false" tint="10066329"/>
+		-->
+	</layers>
+</source>

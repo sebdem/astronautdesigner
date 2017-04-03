@@ -1,0 +1,6 @@
+<source name="default" emission="false" >
+	<layers>
+		<source name="body/default" emission="false"  colorable="true" tint="15059094"/>
+		<source name="body/pants" emission="false"  colorable="true"/>
+	</layers>
+</source>

@@ -1,0 +1,9 @@
+<source name="defaultface0" emission="false" >
+	<layers>
+		<source name="face/eyes_default" emission="false"  colorable="true" tint="16777215"/>
+		<source name="face/iris_default" emission="false"  colorable="true" tint="0"/>
+		<source name="face/brow_default" emission="false"  colorable="true" tint="0"/>
+		<source name="face/mouth_default" emission="false"  colorable="false" />
+		<source name="face/nose_default" emission="false"  colorable="false"/>
+	</layers>
+</source>
