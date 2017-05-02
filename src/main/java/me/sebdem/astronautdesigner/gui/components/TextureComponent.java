@@ -9,6 +9,7 @@ import java.awt.event.MouseListener;
 
 import javax.swing.JComponent;
 
+import me.sebdem.astronautdesigner.gui.ColorLayerDialog;
 import me.sebdem.astronautdesigner.skin.ITexture;
 
 public class TextureComponent extends JComponent implements MouseListener{
@@ -86,6 +87,8 @@ public class TextureComponent extends JComponent implements MouseListener{
 	
 	public void mouseClicked(MouseEvent e) {
 		System.out.println("click");
+		ColorLayerDialog dlg = new ColorLayerDialog(this.texture);
+		dlg.setVisible(true);
 	}
 
 	public void mousePressed(MouseEvent e) {
